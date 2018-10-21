@@ -1,2 +1,4 @@
-# Mictec_Competitve_programming
+# Mictec_Competitve_programming :muscle
 Mictec club repo for sport programmers
+
+
